@@ -1,2 +1,1 @@
 Exercise: A versioned Todo App - page 53
-numer 8. Add some text to DONE.txt
